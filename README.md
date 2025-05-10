@@ -24,7 +24,7 @@ The final report is output as a **clickable, zoomable, fully annotated** [EDARep
 📦 project
 │
 ├── generate_synthetic_user_data.py                # ⛏️ Creates fake user/session data
-├── transform_user_sessions.sql                    # 🧠 SQL transformations on raw session data
+├── transform_user_sessions.sql                    # 🔌 SQL script to query and extract relevant user session data from the server
 ├── analyze_user_behavior_and_generate_report.py   # 📊 EDA + HTML report generation
 ├── synthetic_user_sessions.zip                    # 🧾 Generated data
 └── EDA_Report.html                                # 🖥️ Final interactive report
