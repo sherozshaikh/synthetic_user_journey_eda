@@ -178,7 +178,7 @@ For example:
 ## 🧰 Tech Stack
 
 * **Python** (Pandas, Numpy, Seaborn, Plotly, Matplotlib, Lifelines)
-* **SQL** (PostgreSQL-style queries via Clickhouse)
+* **SQL** (PostgreSQL-style queries via PostHog)
 * **Faker** (Synthetic data)
 
 ---
