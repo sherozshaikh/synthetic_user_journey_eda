@@ -13,7 +13,7 @@ This project builds a data-driven foundation for analyzing **user engagement pat
 - Data transformation with SQL
 - Interactive visualization with Python (Seaborn, Matplotlib, Plotly, Kaplan-Meier)
 
-The final report is output as a **clickable, zoomable, fully annotated** [EDAReport](./assets/EDA_Report.html) file that helps teams make better product decisions.
+The final report is output as a **clickable, zoomable, fully annotated** [EDAReport](./docs/EDA_Report.html) file that helps teams make better product decisions.
 
 ---
 
@@ -26,7 +26,7 @@ The final report is output as a **clickable, zoomable, fully annotated** [EDARep
 ├── generate_synthetic_user_data.py                # ⛏️ Creates fake user/session data
 ├── transform_user_sessions.sql                    # 🔌 SQL script to query and extract relevant user session data from the server
 ├── analyze_user_behavior_and_generate_report.py   # 📊 EDA + HTML report generation
-├── synthetic_user_sessions.zip                    # 🧾 Generated data
+├── synthetic_user_sessions.csv                    # 🧾 Generated data
 └── EDA_Report.html                                # 🖥️ Final interactive report
 
 ```
