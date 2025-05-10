@@ -61,7 +61,11 @@ Line plot with KDE overlay to identify peak engagement hours.
 ### 📷 Figure 4: **Session Volume by Day of the Week**
 > *What day do users prefer? Understand peak weekday traffic to time campaigns better.*
 
-![Session Volume Weekday](./assets/figure_4_session_volume_weekday.png)
+**Session Volume Weekday**
+
+<p align="middle">
+  <img src="./assets/figure_4_session_volume_weekday.png" width="450" />
+</p>
 
 ---
 
@@ -87,7 +91,11 @@ Histogram with log-scaled y-axis to normalize heavy-tailed usage behavior.
 ### 📷 Figure 10: **Session Duration: First vs Later Sessions**
 > *Do users get more engaged or drop off over time? This chart tells the story.*
 
-![Session Duration Comparison](./assets/figure_10_session_duration_comparison.png)
+**Session Duration Comparison**
+
+<p align="middle">
+  <img src="./assets/figure_10_session_duration_comparison.png" width="450" />
+</p>
 
 ---
 
@@ -99,7 +107,11 @@ Trend line showing how average session duration changes across cohorts over time
 ### 📷 Figure 12: **User Retention Curves**
 > *Model user survival using Kaplan-Meier curves across multiple churn thresholds.*
 
-![Retention Kaplan Meier](./assets/figure_12_retention_kaplan_meier.png)
+**Retention Kaplan Meier Curves**
+
+<p align="middle">
+  <img src="./assets/figure_12_retention_kaplan_meier.png" width="450" />
+</p>
 
 ---
 
@@ -158,7 +170,7 @@ Each plot in the HTML report comes with:
 
 For example:
 
-> **📈 Figure 12 (Retention Curves)** shows how many users remain active over time.
+> **📈 Figure 12 (Retention Kaplan Meier Curves)** shows how many users remain active over time.
 > A sharper drop indicates higher churn — a key metric for assessing feature stickiness or onboarding success.
 
 ---
