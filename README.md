@@ -13,7 +13,7 @@ This project builds a data-driven foundation for analyzing **user engagement pat
 - Data transformation with SQL
 - Interactive visualization with Python (Seaborn, Matplotlib, Plotly, Kaplan-Meier)
 
-The final report is output as a **clickable, zoomable, fully annotated** [EDAReport](./docs/EDA_Report.html) file that helps teams make better product decisions.
+The final report is output as a **clickable, zoomable, fully annotated** [EDAReport](https://htmlpreview.github.io/?https://raw.githubusercontent.com/sherozshaikh/synthetic_user_journey_eda/main/docs/EDA_Report.html) file that helps teams make better product decisions.
 
 ---
 
@@ -156,7 +156,7 @@ uv run generate_synthetic_user_data.py
 uv run analyze_user_behavior_and_generate_report.py
 ```
 
-5. Open `EDA_Report.html` in your browser for full visual report!
+5. Open [EDA_Report.html](https://htmlpreview.github.io/?https://raw.githubusercontent.com/sherozshaikh/synthetic_user_journey_eda/main/docs/EDA_Report.html) in your browser for full visual report!
 
 ---
 
