@@ -135,7 +135,7 @@ source .venv/bin/activate  # or .venv\Scripts\activate on Windows
 2. 📦 Install dependencies:
 
 ```bash
-uv pip install pandas numpy seaborn matplotlib plotly lifelines faker
+uv pip install pandas numpy seaborn matplotlib plotly lifelines faker git
 uv pip freeze > requirements.uv
 
 # For repeatable installs in CI or team environments:
@@ -145,9 +145,9 @@ uv pip install -r requirements.uv
 3. 📁 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/user_session_behavior_analysis_eda.git
-cd user_session_behavior_analysis_eda
-```
+git clone https://github.com/sherozshaikh/synthetic_user_journey_eda.git
+cd synthetic_user_journey_eda
+```  
 
 4. 🏗️ Generate the dataset and run the report pipeline:
 
